@@ -9,6 +9,7 @@ CREATE TABLE dim_perimetre_des_donnees_tr_disponibles_plateforme_idfm
 );
 
 -- Copy static data from csv file
+-- original file available here : https://prim.iledefrance-mobilites.fr/fr/donnees-statiques/perimetre-des-donnees-tr-disponibles-plateforme-idfm
 COPY dim_perimetre_des_donnees_tr_disponibles_plateforme_idfm
 FROM 'perimetre-des-donnees-tr-disponibles-plateforme-idfm.csv'
 DELIMITER ';'

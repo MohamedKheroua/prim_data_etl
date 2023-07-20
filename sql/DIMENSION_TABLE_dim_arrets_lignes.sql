@@ -15,6 +15,7 @@ CREATE TABLE dim_arrets_lignes
 );
 
 -- Copy static data from csv file
+-- original file available here : https://prim.iledefrance-mobilites.fr/fr/donnees-statiques/arrets-lignes
 COPY dim_arrets_lignes
 FROM 'arrets-lignes.csv'
 DELIMITER ';'
