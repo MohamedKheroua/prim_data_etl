@@ -197,9 +197,9 @@ Le repo contient les éléments suivants :
 
 ### **Licence**
 
-*MIT License pour la réutilisation des scripts partagés ici*
+- *MIT License pour la réutilisation des scripts partagés ici*
 
-*L'utilisation de l'API Île-de-France Mobilités est soumise à des <a href="https://prim.iledefrance-mobilites.fr/fr/conditions-utilisation">Conditions Générales d'Utilisation</a>. Les données issues de l'API Île-de-France Mobilités sont soumises à la <a href="https://cloud.fabmob.io/s/eYWWJBdM3fQiFNm?ref=ile-de-france-mobilites">Licence Mobilité</a>.*
+- *L'utilisation de l'API Île-de-France Mobilités est soumise à des <a href="https://prim.iledefrance-mobilites.fr/fr/conditions-utilisation">Conditions Générales d'Utilisation</a>. Les données issues de l'API Île-de-France Mobilités sont soumises à la <a href="https://cloud.fabmob.io/s/eYWWJBdM3fQiFNm?ref=ile-de-france-mobilites">Licence Mobilité</a>.*
 
 <br/>
 
