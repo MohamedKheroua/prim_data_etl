@@ -181,7 +181,7 @@ Le repo contient les éléments suivants :
 
 	Le fichier de sortie est sauvegardé sous format HTML, pour conserver l'interactivité du graphique.
 
-	L'exemple de visualisation pour la date du 18 juillet 2023 est le fichier `data/20230718_my_bar_graph.html` .
+	Le graphique pour les données du 18 juillet 2023 est disponible dans le fichier `data/20230718_my_bar_graph.html` .
 
 - #### **Automatisation avec Airflow**
 
